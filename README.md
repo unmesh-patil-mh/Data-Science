@@ -40,6 +40,4 @@ I believe in learning by doing — every notebook and project in this repository
 - VS Code  
 - Git & GitHub  
 
----
 
-## 📂 Repository Structure
