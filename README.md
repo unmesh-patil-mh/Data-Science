@@ -94,7 +94,7 @@ To secure a Data Science / Data Analyst Internship or Placement role where I can
 
 ## 📬 Connect With Me
 
-GitHub: https://github.com/unmesh-patil-mh 
+GitHub: https://github.com/unmesh-patil-mh <br>
 Email: punmesh56@gmail.com
 
 ---
