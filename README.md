@@ -1,6 +1,6 @@
 # 📊 Data Science 🚀
 
-Welcome to my Data Science portfolio repository.
+Welcome to my Data Science repository.
 
 This repository showcases my structured learning, practical implementations, and hands-on projects in Data Science. It reflects my ability to work with real datasets, extract insights, and apply analytical thinking to solve problems.
 
