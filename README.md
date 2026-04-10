@@ -1,4 +1,4 @@
-# 📊 Data Science Portfolio | Internship & Placement Ready 🚀
+# 📊 Data Science 🚀
 
 Welcome to my Data Science portfolio repository.
 
